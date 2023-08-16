@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 815 565" preserveAspectRatio="xMinYMin meet" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 815 565" style="background-color:#E9E9E9" preserveAspectRatio="xMinYMin meet" version="1.1">
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">
@@ -204,7 +204,7 @@
   <use xlink:href="#glyph0-9" x="62.94" y="81.465"/>
 </g>
 <path style="fill:none;stroke-width:13.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 915 4905.351562 L 975 4905.351562 " transform="matrix(0.1,0,0,-0.1,0,565)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 35.5 460.445312 L 47.5 460.445312 L 47.5 211.425781 L 35.5 211.425781 Z M 35.5 460.445312 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(91%,91%,91%);fill-opacity:1;" d="M 35.5 460.445312 L 47.5 460.445312 L 47.5 211.425781 L 35.5 211.425781 Z M 35.5 460.445312 "/>
 <path style="fill:none;stroke-width:13.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:24,91.2;stroke-miterlimit:10;" d="M 975 858.789062 L 7795 858.789062 " transform="matrix(0.1,0,0,-0.1,0,565)"/>
 <path style="fill:none;stroke-width:13.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:24,91.2;stroke-miterlimit:10;" d="M 975 1170.039062 L 7795 1170.039062 " transform="matrix(0.1,0,0,-0.1,0,565)"/>
 <path style="fill:none;stroke-width:13.8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:24,91.2;stroke-miterlimit:10;" d="M 975 1481.328125 L 7795 1481.328125 " transform="matrix(0.1,0,0,-0.1,0,565)"/>
